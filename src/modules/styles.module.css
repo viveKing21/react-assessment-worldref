@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+}
+.boxContainer{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 400px;
+    gap: 0;
+}
+.boxContainer h1{
+    margin: 0;
+}
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.divider{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 20px 0;
+}
+.divider hr{
+    flex: 1;
+    height: 1px;
+    background-color: black;
+    border: none;
+    opacity: .1;
+}
+.divider span{
+    font-size: 14px;
+    color: black;
+    opacity: .3;
+}
