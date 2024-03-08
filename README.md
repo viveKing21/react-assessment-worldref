@@ -23,5 +23,9 @@ To start the development server and run the application, use the following comma
 - Start command: npm start
 - Description: This command will start the development server and open the application in your default web browser. You can now access the application at http://localhost:3000/.
 
+## Tech Stack
+- ReactJs (React-router)
+- CSS
+
 ## Deployment
 https://sweet-duckanoo-30af57.netlify.app/
